@@ -1,0 +1,9 @@
+{
+  "contest": 90,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "3",
+  "title": "IndexLogic: An attacker can mint tokens for himself using assets deposited by other users",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2022-04-phuture-findings/issues/19"
+}

@@ -1,0 +1,9 @@
+{
+  "contest": 90,
+  "handle": "sseefried",
+  "address": "0x033e21B02373489ff2f7a2c2f1B109a1bC6158aD",
+  "risk": "3",
+  "title": "Subtraction of values of two different units causing arbitrary results",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2022-04-phuture-findings/issues/96"
+}

@@ -1,0 +1,9 @@
+{
+  "contest": 90,
+  "handle": "remora",
+  "address": "0x1434b95234155DA830c20d02548aF22f14A38FbE",
+  "risk": "3",
+  "title": "reweight() in ReweightingLogic contracts are missing role based guard checks as in Index contracts",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2022-04-phuture-findings/issues/32"
+}

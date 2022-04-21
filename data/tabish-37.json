@@ -1,0 +1,9 @@
+{
+  "contest": 90,
+  "handle": "tabish",
+  "address": "0xD6FCD2F85fE975bB9b0f3C1B1c6802bB09d33E43",
+  "risk": "2",
+  "title": "Price can be stale leading to wrong return value in refreshedAssetPerBaseInUQ in ChainlinkPriceOracle.sol",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2022-04-phuture-findings/issues/37"
+}

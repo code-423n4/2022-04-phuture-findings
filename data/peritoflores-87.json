@@ -1,0 +1,9 @@
+{
+  "contest": 90,
+  "handle": "peritoflores",
+  "address": "0xca14410735e29650dc240245d96bb376c51477c1",
+  "risk": "2",
+  "title": "Unchecked parameters in Chainlink latestRounddata() could lead to retrieve stale data",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2022-04-phuture-findings/issues/87"
+}

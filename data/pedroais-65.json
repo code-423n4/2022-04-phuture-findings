@@ -1,0 +1,9 @@
+{
+  "contest": 90,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "Attacker can cause minter to lose his funds by calling sync() between deposit and mint()",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-04-phuture-findings/issues/65"
+}

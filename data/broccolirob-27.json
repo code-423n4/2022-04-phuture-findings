@@ -1,0 +1,9 @@
+{
+  "contest": 90,
+  "handle": "broccolirob",
+  "address": "0x5233aF283E7C359a1011Dc0ff480298E90c8CFd6",
+  "risk": "3",
+  "title": "vToken initialization function can be front-run",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2022-04-phuture-findings/issues/27"
+}

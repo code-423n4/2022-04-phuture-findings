@@ -1,0 +1,9 @@
+{
+  "contest": 90,
+  "handle": "foobar",
+  "address": "0xe5ee2B9d5320f2D1492e16567F36b578372B3d9F",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2022-04-phuture-findings/issues/88"
+}
